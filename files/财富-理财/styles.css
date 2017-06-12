@@ -2554,3 +2554,25 @@
   width:130px;
   word-wrap:break-word;
 }
+#u154_img {
+  position:absolute;
+  left:-1px;
+  top:-1px;
+  width:54px;
+  height:6px;
+}
+#u154 {
+  position:absolute;
+  left:85px;
+  top:92px;
+  width:51px;
+  height:3px;
+}
+#u155 {
+  position:absolute;
+  left:2px;
+  top:-6px;
+  width:47px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
