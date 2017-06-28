@@ -2450,7 +2450,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:109px;
+  width:81px;
   height:20px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
@@ -2459,19 +2459,21 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
+  color:#FFCC00;
 }
 #u148 {
   position:absolute;
-  left:276px;
+  left:290px;
   top:1092px;
-  width:109px;
+  width:81px;
   height:20px;
+  color:#FFCC00;
 }
 #u149 {
   position:absolute;
   left:0px;
   top:0px;
-  width:109px;
+  width:81px;
   white-space:nowrap;
 }
 #u150_img {
